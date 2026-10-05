@@ -6,4 +6,5 @@ bun scripts/reset-project.js
 
 bunx expo start
 
-layout props = Flexbox (View support it automatically) in mobile it is column wise
+layout props = Flexbox (View support it automatically) in mobile it is column wise default
+
